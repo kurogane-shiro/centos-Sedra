@@ -1,0 +1,11 @@
+{
+  "base_url": "/", 
+  "hostname": "172.28.0.2", 
+  "notebook_dir": "/", 
+  "password": false, 
+  "pid": 47, 
+  "port": 9000, 
+  "secure": false, 
+  "token": "", 
+  "url": "http://172.28.0.2:9000/"
+}
